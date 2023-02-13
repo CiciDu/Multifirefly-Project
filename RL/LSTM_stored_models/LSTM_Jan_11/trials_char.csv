@@ -1,0 +1,4 @@
+,trial,t,t_last_visible,d_last_visible,abs_angle_last_visible,hit_boundary,num_stops,num_stops_since_last_visible,num_stops_near_target,n_ff_in_a_row
+0,1,595.25,0.25,382.1671763605298,0.6922950007089284,True,8,0,1,1
+1,2,68.75,1.5,399.2446076880873,0.6763746373669178,True,3,1,1,1
+2,3,31.5,1.5,190.02221466287875,0.42466186281026563,True,0,0,0,1
