@@ -1,7 +1,0 @@
-OS: Linux-5.4.188+-x86_64-with-Ubuntu-18.04-bionic #1 SMP Sun Apr 24 10:03:06 PDT 2022
-Python: 3.7.13
-Stable-Baselines3: 1.6.0
-PyTorch: 1.12.0+cu113
-GPU Enabled: True
-Numpy: 1.21.6
-Gym: 0.17.3
